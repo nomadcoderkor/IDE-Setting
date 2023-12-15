@@ -8,3 +8,9 @@
 - Presentation Assistant
 - Ideolog
 - Spring Boot Assistant
+----
+- 색상 테마
+  -- ANSI Highlighter
+  -- Atom Material Icons
+  -- Grep Console
+  -- One Dark Theme
